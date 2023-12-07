@@ -41,3 +41,8 @@ This project is an Invoice Generator that allows users to create and manage invo
    ```bash
    npm start
    ```
+### All images in gif formate
+
+## Home page
+
+![swipe](https://github.com/ErGopiVishwakarma/swipe/assets/114371170/72b373f5-a497-4428-b0a1-90db2cb79c59)
