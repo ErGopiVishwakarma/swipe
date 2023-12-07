@@ -12,15 +12,13 @@ This project is an Invoice Generator that allows users to create and manage invo
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
-- [Any additional libraries or frameworks used]
-
-## Getting Started
+- react
+- redux/toolkit
+- react-router-dom
+- react-bootstrap
+- javascript
 
 ### Prerequisites
-
 - Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 ### Installation
@@ -29,3 +27,16 @@ This project is an Invoice Generator that allows users to create and manage invo
 
    ```bash
    git clone https://github.com/your-username/invoice-generator.git
+   ```
+2. Open it on your code editor and to to root folder
+    ```bash
+   cd folder_name
+    ```
+2. Install node_modules
+   ```bash
+   npm install
+   ```
+4. Run the application
+   ```bash
+   npm start
+   ```
