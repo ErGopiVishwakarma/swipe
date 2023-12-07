@@ -1,4 +1,4 @@
-![create-1](https://github.com/ErGopiVishwakarma/swipe/assets/114371170/b47f5786-569b-425b-9d6b-832281175aa1)# swipe
+# swipe
 # Invoice Generator Project
 
 This project is an Invoice Generator that allows users to create and manage invoices easily. It is designed to streamline the invoicing process for businesses and individuals.
