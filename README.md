@@ -18,6 +18,7 @@ This project is an Invoice Generator that allows users to create and manage invo
 - react-bootstrap
 - javascript
 
+### Getting Started
 ### Prerequisites
 - Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
